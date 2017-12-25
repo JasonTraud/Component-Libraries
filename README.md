@@ -5,6 +5,8 @@ This respository is meant to provide a thorough and deep selection of parts for 
 ## Currently Released Libraries
 - Resistors 0402 Panasonic (single sourcing)
 - Resistors 0402 Yageo (single sourcing)
+- PCB Aesthetics (Layup details)
+- Power Aesthetics (Schematic Power Rails)
 
 ## To Be Released Soon
 - Resistors 0201 Panasonic (single sourcing)
